@@ -154,3 +154,4 @@ Focus on:
 - Garwood, Chatham, Waldoboro
 
 ## Material Type Performance
+![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/621dd54ca0216945fe66b2392382f52493cb61a7/Screenshot%202026-05-04%20093143.png)
