@@ -34,3 +34,11 @@ The dashboard is designed to help stakeholders move from raw data to decisions b
 
 ## Data Cleaning and Transformation (Power Query)
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the business questions, the supplier dataset was further broken down into dimensions and fact tables. Also, a date table was created to support time intelligence analysis and was corrected in the data model in a later step of the process.
+
+## Data Modelling
+The dataset was structured using a star schema design inside the Power BI Data Model, enabling:
+
+- Time intelligence analysis
+- Relationship-based calculations
+- Advanced measure creation
+- Scalable performance reporting
