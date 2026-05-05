@@ -60,6 +60,11 @@ Monthly trend shows:
 - A dip mid-year (May–July) followed by a sharp spike (Aug–Oct)
 - Indicates seasonality OR process breakdown introduced mid-year
 
+Worse Vendor performers
+
+- Meetz also ranks #1 for downtime hours in the vendor performance table (755.3 hrs in worse-performers). Combined with its top rank in downtime hours, it is the single highest-risk vendor.
+- Abata has the highest defect impact dollar cost ($1.93M from Raw Materials alone at $1,825.67/hr) — far exceeding all other vendor-material combinations.
+
 Distribution of Defects
 - No Impact: 39.54% (largest share)
 - Impact: 32.22%
@@ -82,4 +87,5 @@ Vendors like:
 - Meejo (~1073 hrs)
 - Realinks (~1059 hrs)
 - Izio (~1039 hrs)
+
 These vendors alone contribute a disproportionate share of downtime
