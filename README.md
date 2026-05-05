@@ -44,3 +44,6 @@ The dataset was structured using a star schema design inside the Power BI Data M
 - Scalable performance reporting
 
 ![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/238505c641a8c208d7d47fdae95cb74f9e507125/Screenshot%202026-04-14%20084929.png)
+
+### Supplier Quality and Performance Dashboard
+![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/df86f345b9aee0ff46f42eb053f0c4e5e0c977ca/Screenshot%202026-05-04%20092737.png)
