@@ -31,3 +31,6 @@ The dashboard is designed to help stakeholders move from raw data to decisions b
 6. Vendor–Plant Interaction
  - Which supplier–plant combinations create the highest risk?
  - Are poor-performing suppliers concentrated in specific plants?
+
+## Data Cleaning and Transformation (Power Query)
+To create the necessary data model for doing analysis and fulfilling the business needs defined in the business questions, the supplier dataset was further broken down into dimensions and fact tables. Also, a date table was created to support time intelligence analysis and was corrected in the data model in a later step of the process.
