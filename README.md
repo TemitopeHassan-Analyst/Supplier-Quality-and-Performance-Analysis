@@ -185,3 +185,24 @@ Tighten certification verification on incoming materials to curb the “Not Cert
 
 ## Downtime Impact
 ![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/413fdf6ec20418f73956bd2c57101efffafe6d40/Screenshot%202026-05-05%20070607.png)
+
+
+## Key Insights
+- Peak downtime cost/hour is between $217K–$243K in September to November, suggesting compounding issues during high production months.
+- Weekdays, Tuesday–Thursday, have consistently higher downtime costs than weekends.
+Interpretation:
+- Downtime costs might align with full production utilization mid-week, when line loads and defect-processing times are longest.
+Vendor vs. Plant Impact
+- Vendors like Skiptube (Charlevoix) and Innojarn (Garwood) show high downtime cost/hr ($226–$597).
+- Plants such as Bruce Crossing and Chatham show elevated defect counts, making them hotspots for process-quality investigations.
+Vendor vs. Material Impact
+- Vendor Abata appears multiple times with different materials and significant downtime costs/hour (up to $1,825.67/hr for Raw Materials and $789.17/hr for Controllers).
+- This signals that Abata’s material quality directly correlates with high-cost production interruptions.
+
+## Recommendations
+1. Contract Leverage:
+- Introduce performance-based payment adjustments (bonus/penalty system) tied to defect and downtime KPIs.
+2. Downtime Cost Containment:
+- Investigate September–November line operations — consider shift balancing or inventory preloading to reduce dependency during peaks.
+3. Vendor Improvement Plans:
+- Implement Supplier Quality Audits (SQAs) and Corrective Action Reports (CARs) for high-defect materials, especially Raw Materials and Corrugate.
