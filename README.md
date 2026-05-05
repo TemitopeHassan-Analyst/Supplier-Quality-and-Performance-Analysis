@@ -47,3 +47,27 @@ The dataset was structured using a star schema design inside the Power BI Data M
 
 ### Supplier Quality and Performance Dashboard
 ![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/df86f345b9aee0ff46f42eb053f0c4e5e0c977ca/Screenshot%202026-05-04%20092737.png)
+
+### Key Insights (Overview)
+Key Performance Indicators
+Defects: 2.31bn → very high scale problem
+Downtime Hours: 192K
+Downtime Cost: $1.92M
+All three KPIs are up ~8% MoM and ~150% YoY → systemic deterioration, not noise
+
+Trend Insight
+Monthly trend shows:
+- A dip mid-year (May–July) followed by a sharp spike (Aug–Oct)
+- Indicates seasonality OR process breakdown introduced mid-year
+
+Distribution of Defects
+- No Impact: 39.54% (largest share)
+- Impact: 32.22%
+- Rejected: 28.23%
+This indicates that a large portion of defects are not immediately causing downtime
+But 60% (Impact + Rejected) are still operationally significant → major inefficiency
+
+### Recommendations
+- Shift focus from detection → prevention
+- Investigate the Aug–Oct spike
+- Reduce the 'No impact waste' by applying the defect Pareto (80/20) to eliminate recurring low-risk defects
