@@ -131,3 +131,26 @@ Top Downtime Plants
 
 These plants are most vulnerable to supplier quality issues
 - Charles City ranks #1 in "Worse Performers by Plant" with 7,506.7 downtime hours — the single highest-risk plant-level concentration.
+
+🌍 Geographic Insight
+The map suggests clustered plant issues
+Could indicate:
+- Regional supplier problems
+- Logistics/handling issues
+
+## Recommendation
+1. Standardize quality thresholds
+Different plants may be:
+- Accepting/rejecting inconsistently
+Implement:
+- Global defect classification standard
+
+2. Align vendors to plants strategically
+- High-risk suppliers → avoid assigning to:
+- High-throughput / critical plants
+
+3. Strengthen incoming inspection at top plants
+Focus on:
+- Garwood, Chatham, Waldoboro
+
+## Material Type Performance
