@@ -155,3 +155,32 @@ Focus on:
 
 ## Material Type Performance
 ![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/621dd54ca0216945fe66b2392382f52493cb61a7/Screenshot%202026-05-04%20093143.png)
+
+
+1. Defect Trends by Material Type
+- Raw Materials and Corrugate are the top contributors to defects, accounting for ~0.56bn and 0.53bn defect quantities, respectively.
+- Film, Labels, and Carton have significantly lower defect quantities (below 0.2bn each), suggesting these materials have relatively stable quality performance.
+Interpretation:
+- Supplier or process variability for raw materials and corrugate is likely driving higher rework, scrap, and production downtime.
+
+2. Defect Causes
+- Top defect causes: Bad Seams (146M), Miscellaneous Issues (114M), and Not Certified (106M).
+- Foreign Material (80M) and Warped (66M) defects also indicate possible supplier handling or packaging weaknesses.
+Interpretation:
+- High “Bad Seams” and “Not Certified” rates suggest a mix of operator error, supplier QA gaps, or material incompatibility with manufacturing equipment.
+
+3. Defect Quantity by Category
+- Mechanicals (0.71bn) and Logistics (0.62bn) dominate defect impact.
+- Materials & Components sit lower but may still drive accumulated losses through the value chain.
+Interpretation:
+- Defects are not purely material-based — they may stem from mechanical alignment issues or poor inbound logistics handling, emphasizing the need for joint supplier-process analysis.
+
+## Recommendation
+1. Cross-functional Root Cause Reviews:
+- Jointly analyze Bad Seams and Foreign Material issues involving production, maintenance, and supplier engineering.
+2. Automation/Inspection Investment:
+- Introduce inline seam-detection systems and material vision inspection to catch defects early, reducing rework.
+3. Certification Controls:
+Tighten certification verification on incoming materials to curb the “Not Certified” defect category.
+
+## Downtime Impact
