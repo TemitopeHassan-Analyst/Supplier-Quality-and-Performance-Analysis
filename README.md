@@ -122,3 +122,12 @@ These are hidden cost drivers. Improve:
 ## Plant Performance
 
 ![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/df2eb47439ac8e6a3bb1bd2ecf29dc79d63ecc2b/Screenshot%202026-05-04%20093126.png)
+
+## Key Insights
+Top Downtime Plants
+- Garwood (6.0K hrs)
+- Chatham (5.9K hrs)
+- Waldoboro (5.7K hrs)
+
+These plants are most vulnerable to supplier quality issues
+- Charles City ranks #1 in "Worse Performers by Plant" with 7,506.7 downtime hours — the single highest-risk plant-level concentration.
