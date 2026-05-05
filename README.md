@@ -184,3 +184,4 @@ Interpretation:
 Tighten certification verification on incoming materials to curb the “Not Certified” defect category.
 
 ## Downtime Impact
+![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/413fdf6ec20418f73956bd2c57101efffafe6d40/Screenshot%202026-05-05%20070607.png)
