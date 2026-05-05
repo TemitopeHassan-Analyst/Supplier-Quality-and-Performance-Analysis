@@ -89,3 +89,32 @@ Vendors like:
 - Izio (~1039 hrs)
 
 These vendors alone contribute a disproportionate share of downtime
+
+Scatter Plot Insight (Defect Impact vs Downtime)
+High-risk vendors:
+- High defects + high downtime → critical suppliers
+Medium-risk vendors:
+- Moderate clustering → process inconsistency
+Low-risk vendors:
+- Scattered, low-density → stable
+
+### Recommendation
+| Tier              | Criteria                     | Action                       |
+| ----------------- | ---------------------------- | ---------------------------- |
+| 🔴 Strategic Risk | High downtime + high defects | Immediate escalation, audits |
+| 🟡 Watchlist      | High defects OR downtime     | Performance improvement plan |
+| 🟢 Stable         | Low both                     | Maintain, benchmark          |
+
+
+2. Target top 5 vendors (not all)
+- Likely top 20% vendors → 80% downtime
+For each:
+- Root cause analysis (RCA)
+- Process capability review (Cp, Cpk)
+
+
+3. Fix mismatch: high defects but low downtime
+These are hidden cost drivers. Improve:
+- Specification clarity
+- Tolerance alignment
+- Inspection automation
