@@ -118,3 +118,6 @@ These are hidden cost drivers. Improve:
 - Specification clarity
 - Tolerance alignment
 - Inspection automation
+
+## Plant Performance
+
