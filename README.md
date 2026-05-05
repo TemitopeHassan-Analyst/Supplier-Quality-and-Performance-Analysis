@@ -72,5 +72,14 @@ But 60% (Impact + Rejected) are still operationally significant → major ineffi
 - Investigate the Aug–Oct spike
 - Reduce the 'No impact waste' by applying the defect Pareto (80/20) to eliminate recurring low-risk defects
 
-Vendor Performance
+### Vendor Performance
+
 ![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/3bd30ef4929c4494135afe08adbee05d521bd946/Screenshot%202026-05-05%20035145.png)
+
+### Key Insights
+Top Downtime Contributors
+Vendors like:
+- Meejo (~1073 hrs)
+- Realinks (~1059 hrs)
+- Izio (~1039 hrs)
+These vendors alone contribute a disproportionate share of downtime
