@@ -121,3 +121,4 @@ These are hidden cost drivers. Improve:
 
 ## Plant Performance
 
+![image alt](https://github.com/TemitopeHassan-Analyst/Supplier-Quality-and-Performance-Analysis/blob/df2eb47439ac8e6a3bb1bd2ecf29dc79d63ecc2b/Screenshot%202026-05-04%20093126.png)
