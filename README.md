@@ -98,7 +98,7 @@ Medium-risk vendors:
 Low-risk vendors:
 - Scattered, low-density → stable
 
-### Recommendation
+### Recommendations
 | Tier              | Criteria                     | Action                       |
 | ----------------- | ---------------------------- | ---------------------------- |
 | 🔴 Strategic Risk | High downtime + high defects | Immediate escalation, audits |
@@ -138,7 +138,7 @@ Could indicate:
 - Regional supplier problems
 - Logistics/handling issues
 
-## Recommendation
+## Recommendations
 1. Standardize quality thresholds
 Different plants may be:
 - Accepting/rejecting inconsistently
@@ -175,7 +175,7 @@ Interpretation:
 Interpretation:
 - Defects are not purely material-based — they may stem from mechanical alignment issues or poor inbound logistics handling, emphasizing the need for joint supplier-process analysis.
 
-## Recommendation
+## Recommendations
 1. Cross-functional Root Cause Reviews:
 - Jointly analyze Bad Seams and Foreign Material issues involving production, maintenance, and supplier engineering.
 2. Automation/Inspection Investment:
@@ -206,3 +206,10 @@ Vendor vs. Material Impact
 - Investigate September–November line operations — consider shift balancing or inventory preloading to reduce dependency during peaks.
 3. Vendor Improvement Plans:
 - Implement Supplier Quality Audits (SQAs) and Corrective Action Reports (CARs) for high-defect materials, especially Raw Materials and Corrugate.
+
+
+## Conclusion
+
+The Supplier Quality and Performance analysis clearly indicates that the organization is facing a systemic and escalating quality challenge driven by supplier performance issues. The consistent rise in defects, downtime hours, and associated costs—both month-over-month and year-over-year—highlights that current quality management practices are largely reactive rather than preventive.
+
+A disproportionate share of operational disruption is caused by a small group of underperforming vendors and high-impact plants, revealing significant opportunities for targeted intervention. At the same time, the presence of a large volume of “no impact” defects points to hidden inefficiencies that consume resources without directly affecting production, further increasing operational costs.
